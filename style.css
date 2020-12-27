@@ -62,7 +62,7 @@ body {
     margin-top: 10vh;
 }
 .logo {
-    background-image: url(/images/logo.svg);
+    background-image: url(./images/logo.svg);
     background-repeat: no-repeat;
     background-size: contain;
     grid-row: 1;
