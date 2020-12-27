@@ -36,7 +36,7 @@ body {
     justify-content: center;
     grid-row: 1 / 3;
     grid-column: 1 / 2;
-    background-image: url(./images/bg-pattern-desktop.svg);
+    background-image: url(images/bg-pattern-desktop.svg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -62,7 +62,7 @@ body {
     margin-top: 10vh;
 }
 .logo {
-    background-image: url(./images/logo.svg);
+    background-image: url(images/logo.svg);
     background-repeat: no-repeat;
     background-size: contain;
     grid-row: 1;
@@ -126,7 +126,7 @@ body {
     right: -1px;
     height: 3rem;
     width: 5rem;
-    background-image: url(./images/icon-arrow.svg), linear-gradient(45deg, hsl(0, 80%, 86%),  hsl(0, 74%, 74%));
+    background-image: url(images/icon-arrow.svg), linear-gradient(45deg, hsl(0, 80%, 86%),  hsl(0, 74%, 74%));
     background-repeat: no-repeat;
     background-position: center;
     border: var(--grayish-blue);
@@ -149,7 +149,7 @@ input[type="text"]:focus {
 }
 /* HERO STYLE */
 .hero {
-    background-image: url(./images/hero-desktop.jpg);
+    background-image: url(images/hero-desktop.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -179,7 +179,7 @@ input[type="text"]:focus {
         align-items: center;
         justify-content: center;
         grid-row: 3 / 3;
-        background-image: url(./images/bg-pattern-desktop.svg);
+        background-image: url(images/bg-pattern-desktop.svg);
         background-repeat: no-repeat;
         background-position: top;
         position: relative;
@@ -239,7 +239,7 @@ input[type="text"]:focus {
 
 
     .hero {
-        background-image: url(./images/hero-mobile.jpg);
+        background-image: url(images/hero-mobile.jpg);
         background-repeat: no-repeat;
         background-size: contain;
         background-position: center;
@@ -256,7 +256,7 @@ input[type="text"]:focus {
     }
     .logo {
         
-        background-image: url(./images/logo.svg);
+        background-image: url(images/logo.svg);
         background-repeat: no-repeat;
         background-size: contain;
         height: 3vh;
@@ -291,7 +291,7 @@ input[type="text"]:focus {
         position: absolute;
         right: -1px;
         height: 3rem;
-        background-image: url(./images/icon-arrow.svg), linear-gradient(45deg, hsl(0, 80%, 86%),  hsl(0, 74%, 74%));
+        background-image: url(images/icon-arrow.svg), linear-gradient(45deg, hsl(0, 80%, 86%),  hsl(0, 74%, 74%));
         background-repeat: no-repeat;
         background-position: center;
         border: var(--grayish-blue);
