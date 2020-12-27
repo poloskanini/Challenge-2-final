@@ -256,7 +256,7 @@ input[type="text"]:focus {
     }
     .logo {
         
-        background-image: url(/images/logo.svg);
+        background-image: url(./images/logo.svg);
         background-repeat: no-repeat;
         background-size: contain;
         height: 3vh;
